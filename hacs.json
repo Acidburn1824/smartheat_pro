@@ -1,5 +1,4 @@
 {
   "name": "SmartHeat Pro",
-  "render_readme": true,
-  "homeassistant": "2024.1.0"
+  "render_readme": true
 }
