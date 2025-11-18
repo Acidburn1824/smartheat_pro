@@ -1,0 +1,17 @@
+{
+  "domain": "smartheat_pro",
+  "name": "SmartHeat Pro",
+  "version": "0.0.1",
+  "documentation": "https://example.com/smartheat_pro",
+  "requirements": [],
+  "codeowners": [
+    "@emmanuelseillan"
+  ],
+  "config_flow": true,
+  "iot_class": "local_push",
+  "integration_type": "helper",
+  "loggers": [
+    "custom_components.smartheat_pro"
+  ],
+  "dependencies": []
+}
